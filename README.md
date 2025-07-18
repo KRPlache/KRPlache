@@ -6,6 +6,7 @@ HOW TO USE:
 2. Open your terminal and navigate to the directory the .py file is in. run the command "python Rememberme.py"
 3. After the program loads your chosen ai model (ollama does not need to be running Rememberme will launch ollama for you) you can now talk to the ai through the terminal. Type "remember" with no quotations to feed your ai the conversation history (This may take longer depending on how big the file containing the history is, in most cases with REALLY long histories it takes about 15-25ish seconds)
 4. The program will record your history with the ai, at any time type "exit" without quotes to exit the program.
+5. If you would like to view the history just navigate to the folder it should have made on your desktop called Ai_conversations and open the .txt file
 
 Commands will not run in the context of a conversation. you have to type ONLY "remember" or "exit" to have the commands run. Try asking your ai to remember a word or to summarize your conversation history.
 
