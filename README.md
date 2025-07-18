@@ -8,7 +8,7 @@ HOW TO USE:
 4. The program will record your history with the ai, at any time type "exit" without quotes to exit the program.
 5. If you would like to view the history just navigate to the folder it should have made on your desktop called Ai_conversations and open the .txt file
 
-Commands will not run in the context of a conversation. you have to type ONLY "remember" or "exit" to have the commands run. Try asking your ai to remember a word or to summarize your conversation history.
+Commands will not run in the context of a conversation. You have to type ONLY "remember" or "exit" to have the commands run. Try asking your ai to remember a word or to summarize your conversation history.
 
 KNOWN BUGS
 1.) Sometimes the text marker for the AI's response will double or even triple then dissapear the next response going back to normal. 
